@@ -1,0 +1,4 @@
+khazai
+InquirerPy
+tqdm
+yt-dlp
